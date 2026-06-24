@@ -254,24 +254,6 @@ Your files remain yours forever.
 
 ---
 
-## 📂 Project Structure
-
-```text
-SmartCard/
-│
-├── index.html
-├── style.css
-├── app.js
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-└── README.md
-```
-
----
-
 ## 📈 Why SmartCard?
 
 Many digital card services charge monthly fees and keep your profile locked inside their platform.
@@ -313,5 +295,6 @@ Free for personal and commercial use.
 ### Created With ❤️ By SmartCard Team
 
 **Website:** SmartCard
-**Version:** 1.0.0
 **Status:** Free Forever 🚀
+
+**Created By Preatom YT**
