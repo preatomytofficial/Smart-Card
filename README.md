@@ -197,6 +197,32 @@ window.open(
 
 ---
 
+## 🌐 Hosting Options
+
+You can host your SmartCard website on:
+
+### GitHub Pages
+
+Free static hosting.
+
+### Netlify
+
+Fast deployment and global CDN.
+
+### Vercel
+
+Perfect for creators and developers.
+
+### InfinityFree
+
+Completely free web hosting.
+
+### Hostinger
+
+Professional hosting with custom domains.
+
+---
+
 ## 💡 Future Features
 
 Planned upgrades:
