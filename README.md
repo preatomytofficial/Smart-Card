@@ -11,9 +11,7 @@ No account required. No monthly fees. No lock-in.
 
 Simply enter your information, add your social media links, upload your logo or profile picture, and instantly download a complete website package containing:
 
-* HTML
-* CSS
-* JavaScript
+* HTML File 
 
 Host your profile anywhere and keep full ownership of your files forever.
 
@@ -199,32 +197,6 @@ window.open(
 
 ---
 
-## 🌐 Hosting Options
-
-You can host your SmartCard website on:
-
-### GitHub Pages
-
-Free static hosting.
-
-### Netlify
-
-Fast deployment and global CDN.
-
-### Vercel
-
-Perfect for creators and developers.
-
-### InfinityFree
-
-Completely free web hosting.
-
-### Hostinger
-
-Professional hosting with custom domains.
-
----
-
 ## 💡 Future Features
 
 Planned upgrades:
@@ -293,8 +265,7 @@ MIT License
 
 Free for personal and commercial use.
 
-### Created With ❤️ By SmartCard Team
-
+### Created With By Preatom YT
 **Website:** SmartCard
 
 **Status:** Free Forever 🚀
