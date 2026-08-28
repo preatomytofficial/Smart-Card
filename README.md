@@ -218,6 +218,6 @@ MIT License — Free for personal and commercial use.
 
 Status: **Free Forever 🚀**
 
-[YouTube](https://www.youtube.com/@PreatomYTOfficial) • [Facebook](https://www.facebook.com/preatomyt) • [Instagram](https://www.instagram.com/preatom.yt/) • [X](https://x.com/Preatom_YT) • [Telegram](https://t.me/PreatomYT) • [GitHub](https://github.com/Preatomytofficial)
+[YouTube](https://www.youtube.com/@PreatomYTOfficial) • [Facebook](https://www.facebook.com/preatomyt) • [Instagram](https://www.instagram.com/preatom_yt/) • [X](https://x.com/Preatom_YT) • [Telegram](https://t.me/PreatomYT) • [GitHub](https://github.com/Preatomytofficial)
 
 </div>
