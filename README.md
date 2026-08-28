@@ -1,174 +1,131 @@
-# SmartCard – Your Digital Business Card, One Download Away
+<div align="center">
 
-## 🚀 TuTorial Video Link :- https://streamain.com/mh1UmrT1iwRXZpP/watch
-   
+# 💳 SmartCard
+### Your Digital Business Card — One Download Away
+
+**Free • No Account • No Lock-In • Own Your Files Forever**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Free Forever](https://img.shields.io/badge/Price-Free%20Forever-brightgreen)
+![No Account](https://img.shields.io/badge/Account-Not%20Required-blue)
+![Made by Preatom YT](https://img.shields.io/badge/Made%20By-Preatom%20YT-red)
+
+[🌐 Live Demo](https://smartcard-chi.vercel.app/) • [🎬 Video Tutorial](https://streamain.com/mh1UmrT1iwRXZpP/watch) • [📲 Download App](#-download-the-app)
+
+</div>
+
+---
 
 ## 🚀 Overview
 
-**SmartCard** is a free, modern, and lightweight digital business card generator that helps creators, freelancers, businesses, and professionals build a beautiful online profile in minutes.
+**SmartCard** is a free, modern, and lightweight **digital business card generator** that helps creators, freelancers, businesses, and professionals build a beautiful online profile — in minutes.
 
 No account required. No monthly fees. No lock-in.
 
-Simply enter your information, add your social media links, upload your logo or profile picture, and instantly download a complete website package containing:
+Simply enter your information, add your social media links, upload your logo or profile picture, and instantly download a complete website package. Host it anywhere and keep **full ownership** of your files forever.
 
-* HTML File 
+---
 
-Host your profile anywhere and keep full ownership of your files forever.
+## 📲 Download the App
+
+| Platform | Download |
+|---|---|
+| 🌐 Web App | [Launch SmartCard](https://smartcard-chi.vercel.app/) |
+| 🤖 Android APK | [Download v2.0](https://github.com/preatomytofficial/Smart-Card/releases/tag/V2.0) |
 
 ---
 
 ## ✨ Key Features
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎨 Professional Digital Profile
-
 Create a stunning personal profile page that showcases:
+- Name & Username
+- Bio
+- Profile Picture & Brand Logo
+- Social Media Links
+- Website Links
+- Contact Information
 
-* Name
-* Username
-* Bio
-* Profile Picture
-* Brand Logo
-* Social Media Links
-* Website Links
-* Contact Information
+</td>
+<td width="50%" valign="top">
 
----
+### 🔗 All Your Links, One Place
+Connect every platform:
+- Facebook, Instagram, YouTube, TikTok
+- Telegram, X (Twitter), LinkedIn
+- WhatsApp, GitHub
+- Portfolio & Custom Links
 
-### 🔗 All Your Links In One Place
-
-Connect all your platforms:
-
-* Facebook
-* Instagram
-* YouTube
-* TikTok
-* Telegram
-* X (Twitter)
-* LinkedIn
-* WhatsApp
-* GitHub
-* Portfolio Website
-* Custom Links
-
-Your visitors can access everything from one beautiful page.
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Instant Setup
-
-No coding required.
-
+No coding required:
 1. Choose a template
 2. Enter your details
 3. Download your website files
 
-Your profile is ready in less than 2 minutes.
+Ready in **under 2 minutes**.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📦 Download & Own
-
-Unlike many platforms, SmartCard gives you complete ownership.
-
-Download:
-
+Get your files, host anywhere:
 ```text
 index.html
 style.css
 app.js
 ```
+No subscriptions. No vendor lock-in.
 
-Host them anywhere:
-
-* GitHub Pages
-* Netlify
-* Vercel
-* InfinityFree
-* Hostinger
-* cPanel Hosting
-* Local Server
-
-No subscriptions.
-
-No vendor lock-in.
-
----
+</td>
+</tr>
+</table>
 
 ### 🆓 Free Forever
-
-SmartCard is designed to be completely free.
-
-Benefits include:
-
-* Unlimited Profiles
-* Unlimited Downloads
-* Unlimited Social Links
-* No Account Required
-* No Monthly Fees
-* No Hidden Charges
+- ♾️ Unlimited Profiles
+- ♾️ Unlimited Downloads
+- ♾️ Unlimited Social Links
+- 🚫 No Account Required
+- 🚫 No Monthly Fees
+- 🚫 No Hidden Charges
 
 ---
 
 ## 🎯 Who Is It For?
 
-### Content Creators
-
-* YouTubers
-* TikTok Creators
-* Instagram Influencers
-
-### Freelancers
-
-* Designers
-* Developers
-* Marketers
-
-### Businesses
-
-* Local Businesses
-* Startups
-* Agencies
-
-### Students
-
-* Portfolios
-* Personal Branding
-* Resume Websites
+| 🎥 Content Creators | 💼 Freelancers | 🏢 Businesses | 🎓 Students |
+|---|---|---|---|
+| YouTubers | Designers | Local Businesses | Portfolios |
+| TikTok Creators | Developers | Startups | Personal Branding |
+| Instagram Influencers | Marketers | Agencies | Resume Websites |
 
 ---
 
 ## 🛠 How It Works
 
-### Step 1 — Choose a Template
-
-Select from professionally designed templates optimized for mobile and desktop devices.
-
----
-
-### Step 2 — Enter Your Information
-
-Add:
-
-* Name
-* Username
-* Bio
-* Profile Photo
-* Logo
-* Social Media Accounts
-
----
-
-### Step 3 — Download Your Files
-
-Instantly receive:
-
-```text
-index.html
-style.css
-app.js
+```mermaid
+flowchart LR
+    A[1️⃣ Choose a Template] --> B[2️⃣ Enter Your Info]
+    B --> C[3️⃣ Download Your Files]
+    C --> D[🌐 Host & Go Live]
 ```
 
-Upload them to any hosting provider and go live.
+**Step 1 — Choose a Template**
+Select from professionally designed templates optimized for mobile and desktop.
+
+**Step 2 — Enter Your Information**
+Add your name, username, bio, profile photo, logo, and social media accounts.
+
+**Step 3 — Download Your Files**
+Instantly receive `index.html`, `style.css`, and `app.js` — upload them anywhere and go live.
 
 ---
 
@@ -178,122 +135,89 @@ Upload them to any hosting provider and go live.
 Alex Rivera
 @alexrivera
 
-Instagram
-YouTube
-TikTok
-Website
+Instagram   YouTube   TikTok   Website
 ```
 
-Visitors can click any button and open the linked profile in a new tab.
-
-Example:
+Each button opens the linked profile in a new tab:
 
 ```javascript
-window.open(
-  "https://instagram.com/alexrivera",
-  "_blank"
-);
+window.open("https://instagram.com/alexrivera", "_blank");
 ```
 
 ---
 
 ## 🌐 Hosting Options
 
-You can host your SmartCard website on:
-
-### GitHub Pages
-
-Free static hosting.
-
-### Netlify
-
-Fast deployment and global CDN.
-
-### Vercel
-
-Perfect for creators and developers.
-
-### InfinityFree
-
-Completely free web hosting.
-
-### Hostinger
-
-Professional hosting with custom domains.
+| Provider | Notes |
+|---|---|
+| **GitHub Pages** | Free static hosting |
+| **Netlify** | Fast deployment + global CDN |
+| **Vercel** | Perfect for creators & developers |
+| **InfinityFree** | Completely free hosting |
+| **Hostinger** | Custom domains + pro hosting |
+| **cPanel / Local Server** | Full control |
 
 ---
 
-## 💡 Future Features
+## 💡 Roadmap — Coming Soon
 
-Planned upgrades:
-
-* QR Code Generator
-* NFC Smart Card Support
-* Multiple Themes
-* Dark Mode
-* Analytics Dashboard
-* Custom Domains
-* SEO Optimization
-* Profile Visitor Tracking
-* Downloadable Contact vCard
-* Multi-Language Support
+- [ ] 📱 QR Code Generator
+- [ ] 📶 NFC Smart Card Support
+- [ ] 🎨 Multiple Themes + Dark Mode
+- [ ] 📊 Analytics Dashboard
+- [ ] 🌍 Custom Domains
+- [ ] 🔍 SEO Optimization
+- [ ] 👁️ Profile Visitor Tracking
+- [ ] 📇 Downloadable Contact vCard
+- [ ] 🗣️ Multi-Language Support
 
 ---
 
 ## 🔒 Privacy First
 
-SmartCard respects your privacy.
+SmartCard respects your privacy:
 
-* No account required
-* No personal data collection
-* No tracking
-* No subscriptions
+✅ No account required &nbsp;•&nbsp; ✅ No personal data collection &nbsp;•&nbsp; ✅ No tracking &nbsp;•&nbsp; ✅ No subscriptions
 
-Your files remain yours forever.
+**Your files remain yours — forever.**
 
 ---
 
 ## 📈 Why SmartCard?
 
-Many digital card services charge monthly fees and keep your profile locked inside their platform.
+Many digital card services charge monthly fees and lock your profile inside their platform. SmartCard is different:
 
-SmartCard is different.
-
-✅ Download your files
-
-✅ Host anywhere
-
-✅ Keep full ownership
-
-✅ Unlimited links
-
-✅ No account needed
-
-✅ Free forever
+✅ Download your files &nbsp;&nbsp; ✅ Host anywhere &nbsp;&nbsp; ✅ Keep full ownership
+✅ Unlimited links &nbsp;&nbsp; ✅ No account needed &nbsp;&nbsp; ✅ Free forever
 
 ---
 
 ## 🎉 Get Started
 
-Ready to create your own digital business card?
+<div align="center">
 
 ### SmartCard — Your Digital Business Card, One Download Away.
 
 Create a stunning profile that connects all your social media, showcases your brand, and helps people find everything about you in one place.
 
-**Start building today and own your digital identity forever.** 🚀
+**[🚀 Start Building Today →](https://smartcard-chi.vercel.app/)**
+
+</div>
 
 ---
 
-### License
+## 📄 License
 
-MIT License
+MIT License — Free for personal and commercial use.
 
-Free for personal and commercial use.
+---
 
-### Created With By Preatom YT
-**Website:** SmartCard
+<div align="center">
 
-**Status:** Free Forever 🚀
+**Created with ❤️ by [Preatom YT](https://www.youtube.com/@PreatomYTOfficial)**
 
-**Created By Preatom YT**
+Status: **Free Forever 🚀**
+
+[YouTube](https://www.youtube.com/@PreatomYTOfficial) • [Facebook](https://www.facebook.com/preatomyt) • [Instagram](https://www.instagram.com/preatomyt/) • [X](https://x.com/Preatom_YT) • [Telegram](https://t.me/PreatomYT) • [GitHub](https://github.com/Preatomytofficial)
+
+</div>
