@@ -10,7 +10,7 @@
 ![No Account](https://img.shields.io/badge/Account-Not%20Required-blue)
 ![Made by Preatom YT](https://img.shields.io/badge/Made%20By-Preatom%20YT-red)
 
-[🌐 Live Demo](https://smartcard-chi.vercel.app/) • [🎬 Video Tutorial](https://streamain.com/en/Ouvugns8vzszvOa/watch) • [📲 Download App](#-download-the-app)
+[🌐 Live Demo](https://smartcard-chi.vercel.app/) • [🎬 Video Tutorial](https://streamain.com/en/Ouvugns8vzszvOa/watch) • [📲 Download App](https://github.com/preatomytofficial/Smart-Card/releases/tag/V2.0)
 
 </div>
 
